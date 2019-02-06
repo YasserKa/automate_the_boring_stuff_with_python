@@ -1,0 +1,3 @@
+hello there
+I am line 2
+I am line 3 in file 1
